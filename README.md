@@ -1,4 +1,4 @@
-Coderwall SVG
+Coderwall SVG [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 =============
 In this repo is a quick (and sloppy) conversion of the [Coderwall](http://coderwall.com/) logo to SVG
 
