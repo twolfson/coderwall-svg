@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="30" cy="30" r="30" fill="#3e8dcc"/>
-  <circle cx="150" cy="30" r="30" fill="#3e8dcc"/>
-  <circle cx="270" cy="30" r="30" fill="#3e8dcc"/>
-  <circle cx="150" cy="150" r="30" fill="#3e8dcc"/>
-  <circle cx="270" cy="150" r="30" fill="#3e8dcc"/>
-  <circle cx="270" cy="270" r="30" fill="#3e8dcc"/>
+<svg version="1.1" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="5" cy="5" r="1.4142" fill="#3e8dcc"/>
+  <circle cx="10" cy="5" r="1.4142" fill="#3e8dcc"/>
+  <circle cx="15" cy="5" r="1.4142" fill="#3e8dcc"/>
+  <circle cx="10" cy="10" r="1.4142" fill="#3e8dcc"/>
+  <circle cx="15" cy="10" r="1.4142" fill="#3e8dcc"/>
+  <circle cx="15" cy="15" r="1.4142" fill="#3e8dcc"/>
 </svg>
